@@ -1,0 +1,26 @@
+body {
+    background-image: url("../images/website-background.jpg");
+}
+
+
+.download {
+    font-size: 34px;
+    text-align: center;
+}
+
+.before-you-go-song {
+    font-size: 24px;
+}
+
+.mario-judah-die-song {
+    font-size: 24px;
+}
+
+nav {
+    list-style-type: none;
+    font-size: 34px;
+}
+
+.arizona-roxanne {
+    font-size: 24px;
+}

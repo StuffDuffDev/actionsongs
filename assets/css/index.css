@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/website-background.jpg");
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+nav {
+    list-style-type: none;
+    font-size: 34px;
+}
