@@ -40,3 +40,9 @@ nav {
     flex-direction: column;
     align-items: flex-end;
 }
+
+.locked-out-song {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
