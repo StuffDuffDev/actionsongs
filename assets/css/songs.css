@@ -38,3 +38,7 @@ nav {
     color: white;
     display: flex;
 }
+
+locked-out-song {
+    text-align: right;
+}
